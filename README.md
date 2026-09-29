@@ -66,3 +66,5 @@ Selain itu, saya memahami bahwa variabel akumulator seperti `total` harus diinis
 ## Kesimpulan
 
 Pertemuan 05 membantu saya memahami penggunaan `for`, `while`, `if` di dalam perulangan, akumulasi, pencacahan, validasi input, serta pengujian program menggunakan beberapa test case.
+
+**Status:** Seluruh program dan test case telah diuji dan berhasil dijalankan.
